@@ -1,0 +1,2 @@
+dc logs aims to target a docker-compose yaml script then split all container logs into different tabs. 
+Simple cli tool for looking at different logs

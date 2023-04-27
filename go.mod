@@ -1,4 +1,4 @@
-module donuts/dc_logs
+module ximidar/dc_logs
 
 go 1.20
 
