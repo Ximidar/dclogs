@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"donuts/dc_logs/ui"
+	"ximidar/dc_logs/ui"
 
 	"github.com/docker/docker/api/types"
 	"github.com/docker/docker/client"
