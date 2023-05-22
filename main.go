@@ -1,8 +1,8 @@
 package main
 
 import (
-	"donuts/dc_logs/cmds"
 	"fmt"
+	"ximidar/dc_logs/cmds"
 )
 
 func main() {
